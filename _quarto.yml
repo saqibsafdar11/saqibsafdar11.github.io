@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Website 1"
+  title: "Saqib Safdar"
   navbar:
     left:
       - href: index.qmd
